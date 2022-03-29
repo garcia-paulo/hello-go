@@ -1,0 +1,15 @@
+29/03/2022 09:03:17: www.google.com.br foi carregado com sucesso.
+29/03/2022 09:03:17: www.youtube.com.br foi carregado com sucesso.
+29/03/2022 09:03:18: www.github.com/garcia-paulo/404 está com problemas. Status code: 404
+29/03/2022 09:03:23: www.google.com.br foi carregado com sucesso.
+29/03/2022 09:03:23: www.youtube.com.br foi carregado com sucesso.
+29/03/2022 09:03:23: www.github.com/garcia-paulo/404 está com problemas. Status code: 404
+29/03/2022 09:03:28: www.google.com.br foi carregado com sucesso.
+29/03/2022 09:03:29: www.youtube.com.br foi carregado com sucesso.
+29/03/2022 09:03:29: www.github.com/garcia-paulo/404 está com problemas. Status code: 404
+29/03/2022 09:03:34: www.google.com.br foi carregado com sucesso.
+29/03/2022 09:03:34: www.youtube.com.br foi carregado com sucesso.
+29/03/2022 09:03:34: www.github.com/garcia-paulo/404 está com problemas. Status code: 404
+29/03/2022 09:03:39: www.google.com.br foi carregado com sucesso.
+29/03/2022 09:03:39: www.youtube.com.br foi carregado com sucesso.
+29/03/2022 09:03:40: www.github.com/garcia-paulo/404 está com problemas. Status code: 404
